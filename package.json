@@ -1,0 +1,14 @@
+{
+  "name": "lens-open-actions-template",
+  "type": "module",
+  "scripts": {
+    "build": "forge build",
+    "test": "forge test"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
